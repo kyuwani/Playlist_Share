@@ -21,7 +21,7 @@ PlayShare는 음악 플레이리스트를 생성하고 공유하며
 - React
 - JavaScript (ES6+)
 - Vite
-- CSS (또는 Tailwind CSS)
+- CSS
 
 ### Backend / DB
 - Supabase
